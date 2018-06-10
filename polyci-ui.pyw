@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 class PolyciUI:
     def __init__(self, parent, *args, **kwargs):
         self.parent = parent
